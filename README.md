@@ -1,2 +1,7 @@
 # ml_wayne_state
-Assignments done for the Machine Learning class (CSC 5825) at Wayne State University.
+
+This repository contains the assignments done for the CSC 5825 (Machine Learning) class during Fall 2017.
+
+--
+
+This was my first take at Machine Learning.
